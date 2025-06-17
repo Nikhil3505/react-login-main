@@ -32,7 +32,7 @@ react-login/
 
 # 1. Clone the repository
 ```bash
-git clone:-
+git clone:-https://github.com/Nikhil3505/react-login-main.git
 cd react-login
 ```
 
